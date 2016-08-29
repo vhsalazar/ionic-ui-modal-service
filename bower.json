@@ -1,0 +1,15 @@
+{
+  "name": "ionic-ui-modal-service",
+  "version": "0.0.1",
+  "homepage": "https://github.com/vhsalazar/ionic-ui-modal-service",  
+  "description": "",
+  "main": "ionic.ui.modalService.js",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
